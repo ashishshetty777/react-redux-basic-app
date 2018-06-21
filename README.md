@@ -1,5 +1,5 @@
 
-## Used my own boilerplate for the setu 'react-redux-webpack-boilerplate'; 
+## Used my own boilerplate for the setup : 'react-redux-webpack-boilerplate'; 
 ## Versions used:
 ### React and ReactDom - 16.4.1
 ### Redux - 4.0.0
