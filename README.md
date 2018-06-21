@@ -8,7 +8,7 @@
 
 
 ## To run it in local:
-### Clone th repo, "npm i" in root and then "npm start" will create the bundle
+### Clone the repo, "npm i" in root and then "npm start" will create the bundle
 
 ## To create a production build 
 ### npm run build (dist folder will be created; deploy that folder in the web server)
